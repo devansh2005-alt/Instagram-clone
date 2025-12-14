@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+}
+
+.header {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid #ddd;
+}
+
+.feed {
+    max-width: 450px;
+    margin: 20px auto;
+}
+
+.post {
+    background-color: white;
+    margin: 20px 10px;
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.username {
+    font-weight: bold;
+
+}
+
+.post-img {
+    width: 100%;
+    margin-top: 10px;
+
+}
+
+.like-btn {
+    margin-top: 10px;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+
+}
